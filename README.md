@@ -1,0 +1,2 @@
+# CodinGames
+challenges of codingame
